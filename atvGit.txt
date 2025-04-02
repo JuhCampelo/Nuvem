@@ -1,2 +1,7 @@
 Git
+<<<<<<< HEAD
 GitHub
+=======
+GitHuTempestade
+Céu
+>>>>>>> 78c2c352951b1306eb3e7c49a13054eec98d066b
